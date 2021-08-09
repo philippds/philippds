@@ -1,5 +1,13 @@
-# Welcome to my Github Profile
+# Welcome to my (new - 9th August 2021) Github Profile
 ### I'm an Architect, Designer and AI Enthusiast.
+Working on:
+
+- [ ] Team based competitive drone delivery reinforcement learning environment
+---
+- [x] Set up Github Organizations
+- [ ] Populating Github Organizations with projects
+- [ ] Writing neat readme files for each repository
+- [ ] Generalize private repositories to set them public
 
 ## All my repositories are stored in Github Organizations:
 
