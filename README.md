@@ -1,5 +1,5 @@
 # Welcome to my new (9th August 2021) Github Profile
-### I'm an Architect, Designer and AI Enthusiast.
+### I'm an AI Enthusiast, Architect and Designer.
 Working on:
 
 - [ ] Team based competitive drone delivery reinforcement learning environment
