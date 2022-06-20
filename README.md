@@ -5,7 +5,7 @@ Working on:
 - [ ] Team based competitive drone delivery reinforcement learning environment
 ---
 - [x] Set up Github Organizations
-- [ ] Populating Github Organizations with projects
+- [x] Populating Github Organizations with projects
 - [ ] Writing neat readme files for each repository
 - [ ] Generalize private repositories to set them public
 
