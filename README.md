@@ -1,9 +1,10 @@
 # Welcome to my Github Profile
-### I'm an AI Enthusiast, Architect and Designer.
+### I'm an AI Research Engineer and Educator in Architecture and Computational Design.
 Working on:
 
-- [ ] Team based competitive drone delivery reinforcement learning environment
+- [ ] MARL Environment Suite with High Impact Problems
 ---
+- [x] Team based competitive drone delivery reinforcement learning environment
 - [x] Set up Github Organizations
 - [x] Populating Github Organizations with projects
 - [ ] Writing neat readme files for each repository
