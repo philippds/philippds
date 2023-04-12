@@ -1,4 +1,4 @@
-# Welcome to my new (9th August 2021) Github Profile
+# Welcome to my Github Profile
 ### I'm an AI Enthusiast, Architect and Designer.
 Working on:
 
