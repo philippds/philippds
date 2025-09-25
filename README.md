@@ -5,8 +5,8 @@ Working on:
 - [ ] LLM evaluation dataset on knowledge of the Middle Ages
 - [ ] Meta-Eval
 ---
-- [x] LLM guided MARL: [LLM-Mediated Guidance of MARL Systems](https://arxiv.org/abs/2503.13553)
-- [x] MARL Environment Suite with High Impact Problems: [HIVEX: A High-Impact Environment Suite for Multi-Agent Research](https://arxiv.org/abs/2501.04180)
+- [x] LLM-Mediated Guidance of MARL Systems: [paper](https://arxiv.org/abs/2503.13553) | [code](https://github.com/hivex-research/llm_mediated_guidance)
+- [x] HIVEX: A High-Impact Environment Suite for Multi-Agent Research: [paper](https://arxiv.org/abs/2501.04180) | [code](https://github.com/hivex-research/hivex-environments)
 
 <!--
 **philippds/philippds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
